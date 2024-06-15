@@ -36,7 +36,7 @@
 			)
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81"
 					(page "3")
 				)
@@ -74,7 +74,7 @@
 			)
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81"
 					(page "2")
 				)

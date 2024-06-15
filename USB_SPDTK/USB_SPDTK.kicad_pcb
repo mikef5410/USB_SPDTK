@@ -3212,7 +3212,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2800965"
+		(property "LCSC" "C118141"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5936,7 +5936,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C109382"
+		(property "LCSC" "C129375"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8809,7 +8809,7 @@
 			(layers "F.Cu" "F.Mask")
 			(net 2 "GND")
 			(pinfunction "GND")
-			(pintype "passive")
+			(pintype "power_in")
 			(uuid "953fad7c-9263-437b-9616-d9cd45c1ad93")
 		)
 		(pad "6" connect circle
@@ -12066,7 +12066,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2800965"
+		(property "LCSC" "C118141"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")

@@ -8338,7 +8338,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "R16")
 					(unit 1)
@@ -8411,7 +8411,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR035")
 					(unit 1)
@@ -8493,7 +8493,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C12")
 					(unit 1)
@@ -8575,7 +8575,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C8")
 					(unit 1)
@@ -8657,7 +8657,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "R13")
 					(unit 1)
@@ -8742,7 +8742,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "R8")
 					(unit 1)
@@ -8814,7 +8814,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR036")
 					(unit 1)
@@ -8875,7 +8875,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2800965"
+		(property "LCSC" "C118141"
 			(at 120.65 53.34 0)
 			(effects
 				(font
@@ -8897,7 +8897,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "SW2")
 					(unit 1)
@@ -8979,7 +8979,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C11")
 					(unit 1)
@@ -9074,7 +9074,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "J1")
 					(unit 1)
@@ -9147,7 +9147,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR041")
 					(unit 1)
@@ -9219,7 +9219,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR037")
 					(unit 1)
@@ -9292,7 +9292,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR022")
 					(unit 1)
@@ -9375,7 +9375,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "R9")
 					(unit 1)
@@ -9457,7 +9457,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C18")
 					(unit 1)
@@ -9530,7 +9530,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR021")
 					(unit 1)
@@ -9603,7 +9603,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR034")
 					(unit 1)
@@ -9675,7 +9675,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR017")
 					(unit 1)
@@ -9748,7 +9748,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR025")
 					(unit 1)
@@ -9820,7 +9820,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR030")
 					(unit 1)
@@ -9893,7 +9893,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR027")
 					(unit 1)
@@ -9965,7 +9965,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR040")
 					(unit 1)
@@ -10038,7 +10038,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR029")
 					(unit 1)
@@ -10120,7 +10120,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C14")
 					(unit 1)
@@ -10202,7 +10202,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "R12")
 					(unit 1)
@@ -10267,7 +10267,7 @@
 			(uuid "91846990-6127-4923-8524-b31e38e2f4c3")
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR031")
 					(unit 1)
@@ -10340,7 +10340,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR024")
 					(unit 1)
@@ -10406,7 +10406,7 @@
 			(uuid "6b9da5df-48fa-4ab0-8d96-77089ff63dc3")
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR048")
 					(unit 1)
@@ -10488,7 +10488,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "D5")
 					(unit 1)
@@ -10573,7 +10573,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "FB1")
 					(unit 1)
@@ -10656,7 +10656,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "D7")
 					(unit 1)
@@ -10729,7 +10729,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR026")
 					(unit 1)
@@ -10801,7 +10801,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR019")
 					(unit 1)
@@ -10884,7 +10884,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "R10")
 					(unit 1)
@@ -10966,7 +10966,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "R11")
 					(unit 1)
@@ -11048,7 +11048,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C19")
 					(unit 1)
@@ -11130,7 +11130,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "D4")
 					(unit 1)
@@ -11213,7 +11213,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C9")
 					(unit 1)
@@ -11280,7 +11280,7 @@
 			(uuid "4305c58f-7285-4fab-a384-f3115dfb7280")
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR033")
 					(unit 1)
@@ -11362,7 +11362,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "D6")
 					(unit 1)
@@ -11434,7 +11434,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR016")
 					(unit 1)
@@ -11506,7 +11506,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR023")
 					(unit 1)
@@ -11603,7 +11603,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "U5")
 					(unit 1)
@@ -11685,7 +11685,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C13")
 					(unit 1)
@@ -11758,7 +11758,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR038")
 					(unit 1)
@@ -11825,7 +11825,7 @@
 			(uuid "909015d7-7c43-4670-8bac-70b153f1b085")
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR046")
 					(unit 1)
@@ -11897,7 +11897,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR020")
 					(unit 1)
@@ -11969,7 +11969,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR015")
 					(unit 1)
@@ -12036,7 +12036,7 @@
 			(uuid "609f976e-173f-46c6-94f0-d897e066cd75")
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR039")
 					(unit 1)
@@ -12109,7 +12109,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR032")
 					(unit 1)
@@ -12194,7 +12194,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C17")
 					(unit 1)
@@ -12267,7 +12267,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR045")
 					(unit 1)
@@ -12340,7 +12340,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR043")
 					(unit 1)
@@ -12422,7 +12422,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C7")
 					(unit 1)
@@ -12495,7 +12495,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR028")
 					(unit 1)
@@ -12568,7 +12568,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR018")
 					(unit 1)
@@ -12651,7 +12651,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "D3")
 					(unit 1)
@@ -12728,7 +12728,7 @@
 			(uuid "7aca0dcb-57bb-4512-9bb1-fe52d8e08989")
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "R17")
 					(unit 1)
@@ -12795,7 +12795,7 @@
 			(uuid "17b76348-8d53-4cf8-9d85-1c2a1cfca664")
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR044")
 					(unit 1)
@@ -12874,7 +12874,7 @@
 			(uuid "e4216296-4830-4f89-8c71-e88a7364dd00")
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C20")
 					(unit 1)
@@ -12935,7 +12935,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2800965"
+		(property "LCSC" "C118141"
 			(at 104.14 52.07 0)
 			(effects
 				(font
@@ -12957,7 +12957,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "SW1")
 					(unit 1)
@@ -13030,7 +13030,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR047")
 					(unit 1)
@@ -13106,7 +13106,7 @@
 			(uuid "3aaf118d-c916-4daf-bc80-efbb8d12c4fa")
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C15")
 					(unit 1)
@@ -13191,7 +13191,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "R15")
 					(unit 1)
@@ -13273,7 +13273,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C10")
 					(unit 1)
@@ -13393,7 +13393,7 @@
 			(uuid "b2506210-c505-4685-acb6-951b08217fa9")
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "U3")
 					(unit 1)
@@ -13482,7 +13482,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "D2")
 					(unit 1)
@@ -13564,7 +13564,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "R14")
 					(unit 1)
@@ -13649,7 +13649,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "C16")
 					(unit 1)
@@ -13759,7 +13759,7 @@
 			(uuid "2605d8dc-5889-4660-b93f-57f655bf2482")
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "J3")
 					(unit 1)
@@ -13864,7 +13864,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "J2")
 					(unit 1)
@@ -13929,7 +13929,7 @@
 			(uuid "bdc18fef-6365-4cbc-8b70-36710ec75d66")
 		)
 		(instances
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "#PWR042")
 					(unit 1)
@@ -14026,7 +14026,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "Y1")
 					(unit 1)
@@ -14298,7 +14298,7 @@
 					(unit 1)
 				)
 			)
-			(project "USB_SPDT"
+			(project "USB_SPDTK"
 				(path "/d0d19fe4-688a-48aa-b086-8ecea6910e81/f12b4b2a-0036-42fa-9939-44b2f750a303"
 					(reference "U4")
 					(unit 1)
