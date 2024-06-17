@@ -4152,7 +4152,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D6"
-			(at 0.625 1.4 90)
+			(at 0.075 1.9 90)
 			(layer "F.SilkS")
 			(uuid "064ade03-8eff-4f43-b6d5-fc5263cff388")
 			(effects
@@ -11486,7 +11486,7 @@
 		(descr "USB Micro-B receptacle, horizontal, SMD, 10118193, with flange, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118193.pdf")
 		(tags "USB Micro-B horizontal SMD")
 		(property "Reference" "J1"
-			(at 5.4 0.225 180)
+			(at 6 0.025 180)
 			(layer "F.SilkS")
 			(uuid "bb2c4fa0-1270-4f6c-bbb2-5b21d03f80a9")
 			(effects
@@ -12789,7 +12789,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R9"
-			(at 1 1.4 0)
+			(at 0 1.2 0)
 			(layer "B.SilkS")
 			(uuid "e5441db8-1da1-41db-956b-1fa0ac8ddf84")
 			(effects
@@ -13713,7 +13713,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C15"
-			(at 0 1.43 0)
+			(at -0.1 -1.5 0)
 			(layer "B.SilkS")
 			(uuid "31938fb0-84b5-4d1d-9ddb-afb085d7c070")
 			(effects
@@ -14218,7 +14218,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C13"
-			(at 0 1.16 180)
+			(at 1.2675 -1.2 180)
 			(layer "B.SilkS")
 			(uuid "48bdd331-1583-4589-8ca5-bcbfd9a83f9f")
 			(effects
@@ -15030,7 +15030,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R14"
-			(at 0 1.17 -90)
+			(at -2.6 0 -90)
 			(layer "B.SilkS")
 			(uuid "07bbd5dd-951a-4998-a08f-f878d6d5e7dd")
 			(effects
@@ -15261,7 +15261,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R13"
-			(at 0 1.17 -90)
+			(at 2.7 0.3 -90)
 			(layer "B.SilkS")
 			(uuid "b5bd3150-adc6-47d8-8939-43febd0361ff")
 			(effects
@@ -15954,7 +15954,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R12"
-			(at -0.225 1.2 -90)
+			(at 0.075 1.4 -90)
 			(layer "B.SilkS")
 			(uuid "37422785-0b06-4b7b-b9b8-68bb21175130")
 			(effects
@@ -16423,7 +16423,7 @@
 		(uuid "f83846b6-b49e-4521-ab00-6a53b30f39da")
 	)
 	(gr_text "USB_SPDTK\nV1"
-		(at 133.7 66.6 0)
+		(at 133.5 67 0)
 		(layer "F.SilkS")
 		(uuid "0e2d02bd-ef9e-439f-8fc7-da0ecf87f61e")
 		(effects
