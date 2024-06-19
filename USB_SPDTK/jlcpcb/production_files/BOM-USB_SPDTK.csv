@@ -28,7 +28,6 @@ D6,RED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C84263,,0,0
 D7,GRN,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C434423,,0,0
 FB1,MMZ1608Y102B,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C114771,,0,0
 J1,USB_B_Micro,USB_Micro-B_Amphenol_10118193-0001LF_Horizontal,C132562,,0,0
-J3,Conn_02x08_Odd_Even,PinHeader_2x08_P1.27mm_Vertical,,,0,0
 L1,10u,L_Changjiang_FNR4030S,C167879,,0,0
 R10,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,C25744,,0,0
 R11,100,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,C25076,,0,0

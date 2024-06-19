@@ -5451,7 +5451,7 @@
 		(path "/f12b4b2a-0036-42fa-9939-44b2f750a303/f3ff5958-0a31-4c72-a303-0c884c577b75")
 		(sheetname "Controller")
 		(sheetfile "Controller.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -1.13 -0.76)
 			(end 0 -0.76)

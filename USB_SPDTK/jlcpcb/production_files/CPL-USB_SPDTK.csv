@@ -32,7 +32,6 @@ FID2,Fiducial,Fiducial_1mm_Mask3mm,139.4,-66.0,0.0,top
 FID3,Fiducial,Fiducial_1mm_Mask3mm,109.9,-111.5,0.0,bottom
 FID4,Fiducial,Fiducial_1mm_Mask3mm,139.4,-66.0,0.0,bottom
 J1,USB_B_Micro,USB_Micro-B_Amphenol_10118193-0001LF_Horizontal,124.0,-66.325,180.0,top
-J3,Conn_02x08_Odd_Even,PinHeader_2x08_P1.27mm_Vertical,112.065,-71.395,0.0,top
 L1,10u,L_Changjiang_FNR4030S,135.3,-70.9,180.0,top
 R1,0,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,128.0,-72.8,-90.0,top
 R10,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,118.2,-95.6,0.0,top
